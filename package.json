@@ -115,6 +115,7 @@
         "lodash.groupby": "^4.6.0",
         "lodash.has": "^4.5.2",
         "lodash.intersection": "^4.4.0",
+        "lodash.isempty": "^4.4.0",
         "lodash.isfunction": "^3.0.8",
         "lodash.isstring": "^4.0.1",
         "lodash.keyby": "^4.6.0",
